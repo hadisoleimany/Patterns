@@ -1,4 +1,4 @@
-package com.nbms;
+package com.nbms.strategy;
 
 public class PaymentChanel {
     private String name;
